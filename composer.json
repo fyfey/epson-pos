@@ -1,0 +1,12 @@
+{
+    "name": "stuart/epos",
+    "require": {
+        "mike42/escpos-php": "^3.0"
+    },
+    "authors": [
+        {
+            "name": "Stuart Fyfe",
+            "email": "stuart@stuartfyfe.uk"
+        }
+    ]
+}
